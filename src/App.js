@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Routes, Route, NavLink, useNavigate } from "re
 const BRAND = {
   company: "DIGI BRAIN",
   phone: "+229 01 55 34 11 59",
-  email: "contact@digibrain.bj",
+  email: "digibrain7@gmail.com",
   location: "Cotonou, Bénin",
   whatsapp: "+2290155341159",
   facebook: "https://facebook.com/",
