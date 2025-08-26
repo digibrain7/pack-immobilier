@@ -12,7 +12,7 @@ const BRAND = {
   whatsapp: "+2290155341159",
   facebook: "https://facebook.com/",
   instagram: "https://instagram.com/",
-  website: "https://digibrain.bj",
+  website: "https://pack-immobilier-v1.vercel.app/",
 };
 
 // Liste des services proposés
